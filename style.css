@@ -50,7 +50,7 @@ body {
     /* 撐開內邊距 */
     padding: 3%;
     /* 陰影 */
-    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: 1px 1px 1px 1px rgba(70, 9, 9, 0.2);
     /* 外框 */
     border: 1px solid #51515130;
     /* 變形, 幅度為 .3rem (圓角矩形) */
